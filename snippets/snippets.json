@@ -8,6 +8,22 @@
 		],
 		"description": "For loop"
 	},
+	"Cabecalho de Função": {
+	 	"prefix": "advpl_cabec_funcao",
+	 	"body": [
+	 		"//-----------------------------------------------------------",
+			"/*/{Protheus.doc} $funcao",
+			"$descricao",
+			"@author ${autor}",
+			"@since $CURRENT_DATE/$CURRENT_MONTH/$CURRENT_YEAR",
+			"@version 1.0",
+			"",
+			"@type Function",
+			"/*/",
+			"//-----------------------------------------------------------"
+	 	],
+	 	"description": "Cabeçalho de Função"
+	 },
 	"if": {
 		"prefix": "if",
 		"body": [
